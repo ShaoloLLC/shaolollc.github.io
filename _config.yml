@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Shaolo.LLC"
-description:	       "Shaolo.LLC - Proudly located in Salem, Oregon"
+description:	       "Proudly located in Oregon"
 #author:              "Shawn Wilton"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
